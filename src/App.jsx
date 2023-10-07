@@ -30,7 +30,7 @@ function App() {
           className="object-cover h-full absolute z-[-1]"
         />
         <div className="text-white h-full grid justify-center">
-          <div className="flex flex-col gap-2 items-center  mt-[100px]">
+          <div className="flex flex-col gap-2 items-center  mt-[80px]">
             <h4 className="text-3xl text-yellow-400 font-semibold">11.11.2023</h4>
             <h4 className="text-3xl font-semibold">Restoran  "Bai Bol"</h4>
           </div>
