@@ -12,7 +12,7 @@ function App() {
       <div className="h-[100dvh] w-full">
  
          <img
-          src="src/assets/DSC01786.JPG"
+          src="./assets/DSC01786.JPG"
           alt="none"
           className={`object-cover h-full absolute z-[-1] ${fade ? 'blur-0': 'blur-sm'} delay-700 duration-700`}
         />
