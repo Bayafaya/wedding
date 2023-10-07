@@ -15,7 +15,7 @@ function App() {
           alt="none"
           className={`object-cover h-full absolute z-[-1] ${
             fade ? "blur-0" : "blur-sm"
-          } delay-700 duration-700`}
+          } delay-700 duration-700 h-[920px]`}
         />
         <div className="text-white h-full grid justify-center">
           <div
@@ -73,7 +73,7 @@ function App() {
         <img
           src="/assets/DSC01869.JPG"
           alt="none"
-          className="object-cover h-full absolute z-[-1]"
+          className="object-cover h-[920px] absolute z-[-1]"
         />
         <div className="text-white h-full grid justify-center">
           <div className="flex flex-col gap-2 items-center  mt-[80px]">
