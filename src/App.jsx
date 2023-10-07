@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-
+import imgUrl from ''
 function App() {
   const [fade, setFade]= useState(false);
   useEffect(()=>{
@@ -12,7 +12,7 @@ function App() {
       <div className="h-[100dvh] w-full">
  
          <img
-          src="./assets/DSC01786.JPG"
+          src={'/assets/DSC01786.JPG'}
           alt="none"
           className={`object-cover h-full absolute z-[-1] ${fade ? 'blur-0': 'blur-sm'} delay-700 duration-700`}
         />
