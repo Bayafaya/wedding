@@ -9,7 +9,7 @@ function App() {
   });
   return (
     <>
-      <div className="h-[100dvh] w-full transition-all">
+      <div className="h-[920px] w-full transition-all">
         <img
           src="/assets/DSC01786.JPG"
           alt="none"
@@ -47,7 +47,7 @@ function App() {
         </div> */}
       </div>
 
-      <div className="h-[100dvh] w-full transition-all">
+      <div className="h-[920px] w-full transition-all">
         {/* <img
           src="/assets/DSC01786.JPG"
           alt="none"
