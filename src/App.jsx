@@ -71,7 +71,7 @@ function App() {
           </div>
         </div> */}
         <img
-          src="/assets/DSC01869.JPG"
+          src="/assets/DSC01858.JPG"
           alt="none"
           className="object-cover h-[920px] absolute z-[-1]"
         />
