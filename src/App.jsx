@@ -13,7 +13,7 @@ function App() {
         <img
           src="/assets/DSC01786.JPG"
           alt="none"
-          className={`object-cover h-full absolute z-[-1] ${
+          className={`object-cover absolute z-[-1] ${
             fade ? "blur-0" : "blur-sm"
           } delay-700 duration-700 h-[920px]`}
         />
