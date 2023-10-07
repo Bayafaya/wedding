@@ -9,7 +9,7 @@ function App() {
   })
   return (
     <>
-      <div className="h-[100dvh] w-full">
+      <div className="h-[100vh] w-full">
  
          <img
           src='/assets/DSC01786.JPG'
