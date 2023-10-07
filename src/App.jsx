@@ -8,8 +8,8 @@ function App() {
     }, 0);
   });
   return (
-    <>
-      <div className="h-[920px] w-full transition-all">
+    <div className="flex flex-col">
+      <div className="h-[920px]">
         <img
           src="/assets/DSC01786.JPG"
           alt="none"
@@ -47,7 +47,7 @@ function App() {
         </div> */}
       </div>
 
-      <div className="h-[920px] w-full transition-all">
+      <div className="h-[920px]">
         {/* <img
           src="/assets/DSC01786.JPG"
           alt="none"
@@ -84,7 +84,7 @@ function App() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
